@@ -7,10 +7,9 @@
 - I'm here to connect with like-minded individuals, especially those who are willing to mentor or collaborate with a budding enthusiast. If you're an experienced GitHub user, a coding expert, or a data analysis guru, I'd love to hear from you!
 Whether you can teach me the basics of GitHub, share your knowledge on computer science, or guide me through the intricacies of data analysis, your insights and mentorship are highly valued.
 - 💞️ I'm open to collaborating on projects, both big and small. Feel free to reach out to me with ideas, suggestions, or opportunities. Let's learn and grow together in this exciting world of technology!
-## Connect with Me 
-You can contact me right here on GitHub, and I'm also available on [LinkedIn](https://www.linkedin.com/in/priyanshujhaa/) if you prefer that platform.
+- ## Connect with me 👇
+- You can contact me right here on GitHub, and I'm also available on [LinkedIn](https://www.linkedin.com/in/priyanshujhaa/) if you prefer that platform.
 Looking forward to connecting with the GitHub community and embarking on this incredible learning journey together! 🚀
-
 <!---
 priyanshh09/priyanshh09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
